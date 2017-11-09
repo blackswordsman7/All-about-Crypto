@@ -18,3 +18,7 @@ Smart contracts
 
 A smart contract is a piece of code that lives in a blockchain. When a preprogrammed condition is triggered, the smart
 contract executes the corresponding contractual clause.
+
+
+BEWARE
+Not all dapp code is a smart contract.
