@@ -29,7 +29,25 @@ Required 4 basic features:-
 1. Open Source
 Open sourcing a dapp changes the structure of its business practices so that the Internet is common denominator instead
 of a chain of closed silos. Launuching an closed source is much more difficult, marketing , to get a user base.
+
+
 2. Internal currency
   Using appcoin. ( Scarce Token )
+  
+  
 3. Decentralized Consensus
-  bitcoin is P2P. Previous decentralized applications, like bittorrent, using DTH( Distributed table hashes) 
+  bitcoin is P2P. Previous decentralized applications, like bittorrent, using DTH( Distributed table hashes)-BUT, DHTs are great
+  for storing and streaming decentralized data, but if you want application-level constructs like usernames, status updates, 
+  high scores, and so forth for which you need everyone to agree on in a decentralized way. IT IS SOLVED BY BLOCKCHAIN TECH.
+  What makes the blockchain unique is that it solves the major security issue of DHTs: not forcing nodes to trust each other
+  on the validity of data.  If your app needs some feature that requires everyone else to agree on something, you should use 
+  a blockchain. FOR EG. USERNAME, since blockchain provides every user with the copy of nodes. None, can pose as that user.
+  This is implemented using smart contract since only maintaining the transaction id( what blockchain have been doing in order 
+  cryptocurrency) cant solve the purpose, each node can do inspection only when they have the data. And smart contract is a code 
+  snippet ensuring the above. A smart contract is a piece of code that lives in a blockchain. When a preprogrammed condition is 
+  triggered, the smart contract executes the corresponding contractual clause. 
+  How's it is different from stripe's API??
+  SC runs on blockchain not on the server.
+  SC - cryptoeconomically secured exectution of  code.
+  
+4.  No Central Point of Failure  
