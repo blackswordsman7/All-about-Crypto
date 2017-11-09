@@ -14,4 +14,7 @@ who has the “@user” username; what matters is that everyone agrees who has i
 in the past, but they all required nodes to trust one another. The blockchain is an immutable record that every node has
 a copy of, so no one can pretend that they too are @user. This can be done via the use of smart contracts.
 
+Smart contracts
 
+A smart contract is a piece of code that lives in a blockchain. When a preprogrammed condition is triggered, the smart
+contract executes the corresponding contractual clause.
