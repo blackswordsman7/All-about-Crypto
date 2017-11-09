@@ -7,3 +7,11 @@ https://bitcoin.stackexchange.com/questions/4540/is-the-transaction-database-eve
 
 
 Solves double spending problem! using (proof of work)
+
+The blockchain’s innovation is decentralized consensus. If your app needs some feature that requires everyone else 
+to agree on something, you should use a blockchain. A simple example is a username system for which it doesn’t really matter
+who has the “@user” username; what matters is that everyone agrees who has it. There have been lots of decentralized protocols
+in the past, but they all required nodes to trust one another. The blockchain is an immutable record that every node has
+a copy of, so no one can pretend that they too are @user. This can be done via the use of smart contracts.
+
+
